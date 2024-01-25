@@ -1,0 +1,25 @@
+.input-group {
+    position: relative;
+    width: 500px;
+    top: 221px;
+    left: 330px;
+}
+
+.btn-dark {
+    position: relative;
+    width: 170px;
+    top: 227px;
+    left: 510px;
+}
+
+img {
+    position: relative;
+    width: 400px;
+    top: 250px;
+    left: 359px;
+}
+
+.custom-btn {
+    width: 250px;
+    left: 470px;
+}
